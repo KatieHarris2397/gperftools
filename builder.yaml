@@ -1,4 +1,5 @@
 projecttype: "C"
+projectpath: '/root'
 prebuildcmd: "./autogen.sh"
 configcmd: "./configure"
 buildtool: "make-tar"
