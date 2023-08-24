@@ -1,0 +1,3 @@
+projecttype: "C"
+prebuildcmd: "./autogen.sh"
+configcmd: "./configure"
